@@ -3,7 +3,7 @@
 - WHATWG ( Web Hypertext Application Technology Working Group )
 - HTML5
 
-Glossário [glossario.md]
+[Glossário](glossario.md)
 
 ## Conceitos e fundamentos recomendados
 - Web IDL
