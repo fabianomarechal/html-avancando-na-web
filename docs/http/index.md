@@ -12,3 +12,6 @@
 ## Transactions
 ## Methods
 ## Status Codes
+
+### HTTP Messages
+    - ['start_line', 'headers', 'body']
