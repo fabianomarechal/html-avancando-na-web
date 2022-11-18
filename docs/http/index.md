@@ -28,3 +28,14 @@
     - HTTP/1.1
     - HTTP/2.0 (HTTP-NG)
 
+## WEB Applications
+    ### Proxies
+        Act between client and server for integration and security
+    ### Caches
+        Keep copies of popular documents to improve performance
+    ### Gateways
+        Intermediating other servers
+    ### Agents
+        Issues Web Requests
+    ### Tunnels
+        Relay raw data between two connections
