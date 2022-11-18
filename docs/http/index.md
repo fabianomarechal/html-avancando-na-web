@@ -15,3 +15,8 @@
 
 ## Messages
     - ['start_line', 'headers', 'body']
+
+## Connections
+### TCP/IP
+    - Telnet
+    - [Netcat](https://netcat.sourceforge.net/)
