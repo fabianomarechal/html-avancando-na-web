@@ -13,5 +13,5 @@
 ## Methods
 ## Status Codes
 
-### HTTP Messages
+## Messages
     - ['start_line', 'headers', 'body']
