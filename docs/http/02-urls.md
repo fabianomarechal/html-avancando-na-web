@@ -3,7 +3,7 @@
     Apps uses URLs to easy access
 
 ### URL Syntax
-    {{scheme}}://{{user}}:{{password}}@{{host}}:{{port}}/{{path}};{{params}}?{{query}}#{{frag}}
+    {\{scheme}\}://{\{user}\}:{\{password}\}@{\{host}\}:{\{port}\}/{\{path}\};{\{params}\}?{\{query}\}#{\{frag}\}
 
     - scheme: Protocol to be used. Case Insensitive. [http, ftp, rstp, smtp, ...]
     - user: username [ optional, in some cases will required to access a resource]
